@@ -1,0 +1,1 @@
+G:\Projects\Starfox Hololens\exe\Starfox Hololens\Starfox Hololens.csproj;x86
